@@ -5,3 +5,8 @@
 - [P = NP](https://mitit.org/Contest/ViewProblem/p-np?cid=beginner-25-26)
 
 - [Avoid Copyright Infringement](https://mitit.org/Contest/ViewProblem/avoid-copyright?cid=beginner-25-26)
+
+
+![Team](images/team.png)
+
+![Scoreboard](images/scoreboard.png)
